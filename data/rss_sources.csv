@@ -1,0 +1,5 @@
+source_id,publisher,name,topic,feed_url,homepage_url,description
+cnbc_top,CNBC,Top News,Markets and business,https://www.cnbc.com/id/100003114/device/rss/rss.html,https://www.cnbc.com/rss-feeds/,CNBC's top stories feed
+wsj_markets,The Wall Street Journal,Markets,Markets and investing,https://feeds.content.dowjones.io/public/rss/RSSMarketsMain,https://www.wsj.com/markets/,Dow Jones-hosted WSJ markets feed
+marketwatch_top,MarketWatch,Top Stories,Markets and personal finance,https://feeds.content.dowjones.io/public/rss/mw_topstories,https://www.marketwatch.com/,MarketWatch top stories feed
+bloomberg_markets,Bloomberg,Markets,Markets and economics,https://www.bloomberg.com/feeds/markets/news.rss,https://www.bloomberg.com/markets/,Bloomberg markets feed
