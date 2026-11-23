@@ -112,7 +112,6 @@ RSS loading is manual; the app does not poll feeds in the background. The resear
 | `data/financial_news.sqlite3` | Local source catalog, health checks, and saved research runs (created on launch) |
 | `data/demo_*.csv` | Fictional article examples and illustrative scores |
 | `static/fonts/` | Self-hosted Roboto Condensed metadata face and SIL Open Font License |
-| `sentiment-analysis-for-financial-news.ipynb` | Preserved original notebook baseline |
 
 ## References
 
