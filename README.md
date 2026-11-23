@@ -93,10 +93,6 @@ RSS loading is manual; the app does not poll feeds in the background. The resear
 - Co-mentions describe shared article coverage only. This tool does not forecast stock prices, measure market correlation, or make investment recommendations.
 - The graph and aggregate scores summarize model outputs; they do not establish financial truth.
 
-## Interview summary
-
-> I built a local financial-news analysis tool that ingests user-selected RSS or CSV articles, maps company aliases, and fine-tunes a compact DistilBERT classifier to estimate sentiment toward a specific company in context. It aggregates those predictions into an interactive co-mention network and timeline, while keeping the source article and scored text beside each result. I grouped evaluation splits by headline to avoid target-label leakage and report macro F1 and per-class errors. The current benchmark is headline-based, so full-article transfer still needs validation.
-
 ## Project files
 
 | Path | Role |
